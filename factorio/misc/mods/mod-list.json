@@ -1,0 +1,96 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "elevated-rails",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-age",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": false
+    },
+    
+    {
+      "name": "alien-biomes-graphics",
+      "enabled": false
+    },
+    
+    {
+      "name": "CleanFloor",
+      "enabled": true
+    },
+    
+    {
+      "name": "Dirt_Path",
+      "enabled": true
+    },
+    
+    {
+      "name": "far-reach",
+      "enabled": true
+    },
+    
+    {
+      "name": "light-overhaul",
+      "enabled": true
+    },
+    
+    {
+      "name": "MiningScars",
+      "enabled": true
+    },
+    
+    {
+      "name": "RealisticOres",
+      "enabled": false
+    },
+    
+    {
+      "name": "RealisticReactorGlow",
+      "enabled": false
+    },
+    
+    {
+      "name": "show-max-underground-distance",
+      "enabled": true
+    },
+    
+    {
+      "name": "solid-map-ore",
+      "enabled": true
+    },
+    
+    {
+      "name": "squeak-through-2",
+      "enabled": true
+    },
+    
+    {
+      "name": "VehicleSnap",
+      "enabled": true
+    },
+    
+    {
+      "name": "visual_tracers",
+      "enabled": true
+    }
+  ]
+}
